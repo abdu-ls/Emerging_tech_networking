@@ -8,5 +8,4 @@ colors = ["#4F81BD", "#C0504D", "#9BBB59"]
 # Create pie chart
 plt.figure(figsize=(6,6))
 plt.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=140, colors=colors)
-plt.title("Energy Consumption in Network Elements", fontsize=14)
 plt.tight_layout()
