@@ -9,6 +9,7 @@
 **********************************************************************************
 
 **** HOw to run question C3-15 ****
-1. do same as C1-6 till #3.
-2. Copy the code from energy_pie_chart file and paste a cell.
-3. Click on RUN button to see the results.
+1. Open Jupyter Notebook: https://jupyter.org/try-jupyter/lab/
+2. Select the first tile; Python (Pyodide)
+3. Copy the code from energy_pie_chart file and paste a cell.
+4. Click on RUN button to see the results.
